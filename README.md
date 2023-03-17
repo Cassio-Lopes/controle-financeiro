@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Controle Financeiro em React JS
+Este é um aplicativo de controle financeiro desenvolvido em React JS. O objetivo é ajudar os usuários a gerenciar suas finanças, visualizando suas despesas e receitas em uma interface simples e fácil de usar.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Funcionalidades
+O aplicativo possui as seguintes funcionalidades:
 
-In the project directory, you can run:
+.Adicionar transações (despesas ou receitas)
+.Exibir o saldo atual
+Exibir um gráfico de resumo de transações por categoria
 
-### `npm start`
+### Tecnologias Utilizadas
+O aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React JS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Como Executar
+Para executar o aplicativo, siga os seguintes passos:
 
-### `npm test`
+Clone o repositório em sua máquina local
+Abra um terminal na pasta do projeto
+Execute o comando npm install para instalar as dependências
+Execute o comando npm start para iniciar o aplicativo
+Abra um navegador em http://localhost:3000
+Como Usar
+Ao iniciar o aplicativo, você será direcionado para a página principal. Nesta página, você pode adicionar transações (despesas ou receitas) clicando no botão "Adicionar Transação". Na página de adicionar transações, você deve preencher o formulário com as informações da transação (descrição, valor, tipo e data) e clicar em "Salvar".
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Na página principal, você pode ver as transações que foram adicionadas, o saldo atual e o gráfico de resumo de transações por categoria. Você também pode filtrar as transações por data utilizando os botões "Mês Anterior", "Mês Atual" e "Próximo Mês".
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contribuição
+Se você deseja contribuir com o projeto, sinta-se à vontade para criar um pull request. Suas contribuições são muito bem-vindas!
