@@ -1,7 +1,7 @@
 # Controle Financeiro em React JS
 Este é um aplicativo de controle financeiro desenvolvido em React JS. O objetivo é ajudar os usuários a gerenciar suas finanças, visualizando suas despesas e receitas em uma interface simples e fácil de usar.
 
-
+![Animação ](https://user-images.githubusercontent.com/86318311/225779058-9f2e3d26-1d8c-4977-9d29-59ddbe6ae8e2.gif)
 ## Funcionalidades
 O aplicativo possui as seguintes funcionalidades:
 
